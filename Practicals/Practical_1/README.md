@@ -1,4 +1,4 @@
-# WEB303 Practical 1: Microservices Architecture with Go, gRPC, and Docker
+# Microservices Architecture with Go, gRPC, and Docker
 
 ## Overview
 
