@@ -156,6 +156,8 @@ The following screenshot demonstrates the successful implementation and testing 
 
 ![alt text](<Screenshot 2025-08-27 at 2.52.10 PM.png>)
 
+![alt text](<Screenshot 2025-08-28 at 2.37.49 PM.png>)
+
 As shown above, the system successfully:
 - ✅ Retrieves user data via dynamic service discovery
 - ✅ Fetches product information through Consul routing  
